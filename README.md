@@ -36,17 +36,7 @@ Passionate about building clean, user-focused applications. Skilled in Java, DSA
 
 ---
 
-## 📌 Featured Projects  
 
-
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivaniPatel&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaniPatel&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
 
 ## 🤝 Connect with Me  
 <p>
