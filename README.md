@@ -38,16 +38,7 @@ Passionate about building clean, user-focused applications. Skilled in Java, DSA
 
 ## 📌 Featured Projects  
 
-### 🔹 *Car Rental Management System*  
-A Java-based application to manage car rentals, customers, and bookings.  
-*Tech:* Java, OOP, File Handling / DB  
-✔ Improves workflow & reduces manual errors  
 
-### 🔹 *Portfolio Website*  
-A clean personal website built with HTML, CSS, JavaScript.  
-✔ Showcases skills and projects in a professional way  
-
----
 
 ## 📊 GitHub Stats  
 <p align="center">
